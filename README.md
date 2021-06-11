@@ -3,7 +3,7 @@ I use this repo for testing out my knowledge on git and submitting code remotely
 
 # Cloning a repository using git
 Working in the terminal in VS Code I used the command 
-'$ git clone https.....' and I copy and pasted the HTTPS link from GitHub connect my local repository remotely 
+'$ git clone https.....' and I copy and pasted the HTTPS link from GitHub to connect to my local repository remotely 
 
 # Pushing a file to GitHub in git
 $ git status
