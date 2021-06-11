@@ -7,6 +7,7 @@ Working in the terminal in VS Code I used the command
 
 # Pushing a file to GitHub in git
 $ git status
+
 $ git add git-test.js
 
 $ git status
