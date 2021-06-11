@@ -11,8 +11,9 @@ $ git status
 $ git add git-test.js
 
 $ git status
-    On branch main
-    Your branch is up to date with 'origin/main'.
+
+        On branch main
+        Your branch is up to date with 'origin/main'.
 
     Changes to be committed:
       (use "git restore --staged <file>..." to unstage)
@@ -25,6 +26,7 @@ $ git commit -m "first commit test"
     create mode 100644 git-test.js  
     
 $ git status
+
      On branch main
      Your branch is ahead of 'origin/main' by 1 commit.
        (use "git push" to publish your local commits)
